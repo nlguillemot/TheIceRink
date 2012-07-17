@@ -13,4 +13,4 @@ I have a Windows build available in the build folder, which includes both the se
 
 Right now I need to write some SCons scripts to make this easier to build for non-Windows platforms. (This was originally made using Visual Studio, which is not available for Linux.) The source code is a huge mess, so I need to sort that out sometime before writing my SCons scripts. Also, I think I might have used a development build of SFML. That means I'll likely need to do some rafactoring.
 
-It was a lot of fun writing code with ASIO. I need to do more of that!
+It was a lot of fun writing code with Asio. I need to do more of that!
