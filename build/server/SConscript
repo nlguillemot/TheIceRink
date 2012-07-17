@@ -1,0 +1,4 @@
+Import('env')
+
+env.Append(CPPDIR='../shared')
+env.Program(target='server', source=Glob('*.cpp'))
