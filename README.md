@@ -1,7 +1,7 @@
 TheIceRink
 ==========
 
-First experiment with asynchronous networking using Boost.ASIO
+First experiment with asynchronous networking using Boost.Asio
 
 I made this a while ago as a fun experiment while I was working at Inlight.
 
