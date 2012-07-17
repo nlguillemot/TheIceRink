@@ -1,4 +1,0 @@
-Import('env')
-
-env.Append(CPPDIR='../shared')
-env.Program(target='client', source=Glob('*.cpp'))
